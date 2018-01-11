@@ -65,7 +65,6 @@
           song.playing = null;
       }
 
-
       SongPlayer.currentSong = null;
 
       /**

@@ -1,10 +1,10 @@
 {
-  "name": "Bloc-Jams-AngularJS-Starter",
+  "name": "bloc-jams-angularjs",
   "version": "0.0.4",
   "description": "A starter project for Bloc's AngularJS-driven music player app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bloc/Bloc-Jams-AngularJS-Starter"
+    "url": "git+https://github.com/Bloc/Bloc-Jams-AngularJS-Starter.git"
   },
   "main": "server.js",
   "scripts": {
@@ -23,5 +23,9 @@
   "devDependencies": {
     "connect-modrewrite": "^0.7.9",
     "es5-shim": "^4.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Bloc/Bloc-Jams-AngularJS-Starter/issues"
+  },
+  "homepage": "https://github.com/Bloc/Bloc-Jams-AngularJS-Starter#readme"
 }
